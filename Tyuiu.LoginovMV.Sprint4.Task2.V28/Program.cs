@@ -34,7 +34,7 @@ namespace Tyuiu.LoginovMV.Sprint4.Task2.V28
             int[] array = new int[len];
             for (int i = 0; i < array.Length; i++)
             {
-                array[i] = rnd.Next(2, 9);
+                array[i] = rnd.Next(2, 10);
             }
             Console.WriteLine();
             Console.WriteLine("Массив:");
